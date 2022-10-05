@@ -7,7 +7,7 @@ This is personal website which showcase all the projects of Neogcamp Level0.
 
 ---
 
-![Demo](./Images/Mark3.PNG)
+![Demo](./Images/home.PNG)
 
 ---
 
