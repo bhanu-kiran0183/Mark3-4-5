@@ -3,7 +3,7 @@
 This is personal website which showcase all the projects of Neogcamp Level0.
 
 
-## [LIVE](https://portfolioskn.netlify.app/)
+## [LIVE](https://luminous-gingersnap-a73387m345.netlify.app/)
 
 ---
 
